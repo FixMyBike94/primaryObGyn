@@ -1,0 +1,247 @@
+* {
+    font-family: "Apercu", Arial, sans-serif;
+  }
+
+  body {
+    background-color: #10162F;
+    margin: 0;
+  }
+
+  header {
+    background-color: #333;
+  }
+
+  h1 {
+    text-align: left;
+    font-size: 65px;
+    margin: 110px 200px 30px 210px;
+    color:#66C4FF;
+  }
+
+  h2 {
+    color:#a1dafd;
+    margin-left: 210px;
+    font-size: 30px;
+    max-width: 750px;
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    max-width: 750px;
+    margin-left: 210px;
+    color: white;
+  }
+
+  ol {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    max-width: 730px;
+    margin-left: 210px;
+    color:white;
+  }
+
+  ol, li{
+}
+
+  iframe {
+    margin-left: 210px;
+  }
+
+  .TL {
+    height: 350px;
+    width: 500px;
+    margin-left: 210px;
+  }
+
+  .midlineClassical {
+    height: 400px;
+    width: 600px;
+    margin-left: 210px;
+  }
+
+  .modifiedExtraperitoneal {
+    height: 350px;
+    width: 425px;
+    margin-left: 210px;
+  }
+
+  .chagoria {
+    height: 400px;
+    width: 350px;
+    margin-left: 210px;
+  }
+
+  .mini-laparotomy {
+    height: 400px;
+    width: 400px;
+    margin-left: 210px;
+  }
+
+  .VVFMechanism {
+    height: 400px;
+    width: 350px;
+    margin-left: 210px;
+  }
+
+  .VVFSites {
+    height: 675px;
+    width: 425px;
+    margin-left: 210px;
+  }
+
+  .VVFRepair {
+    height: 900px;
+    width: 675px;
+    margin-left: 210px;
+  }
+
+  .avoidingUreter, .pelvisLigaments, .subtotalHysterectomy, .totalHysterectomy {
+    height: 660px;
+    width: 600px;
+    margin-left: 210px;
+  }
+
+  .hysterectomy {
+    height: 1000px;
+    width: 800px;
+    margin-left: 210px;
+    margin-bottom: 15px;
+  }
+
+  .C-sectionA-G, .C-sectionH-O, .C-sectionP-V {
+    height: 700px;
+    width: 350px;
+    margin-left: 210px;
+  }
+
+  .caption {
+    text-align: left;
+    font-weight: bold;
+    margin: 20px 210px;
+  }
+
+  .below {
+    text-align: left;
+    margin: 0px 0px 25px 210px;
+  }
+
+  a {
+    text-decoration: none;
+    cursor:pointer;
+    color:white;
+  }
+
+  a:hover {
+    color: yellow;
+  }
+
+  index:hover {
+    color: yellow;
+  }
+
+  .navBar {
+      list-style-type: none;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: black;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      height: 52px;
+      border-bottom: 1px solid gray;
+      z-index: 1;
+  }
+
+  .navBar li {
+    float: left;
+  }
+  
+  .navBar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+  }
+
+  .home {
+    margin-left: 30px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navBar li a:hover {
+    color: yellow;
+  }
+
+  .sideText {
+   max-width: 400px;
+   float: right;
+   position:relative;
+   top: -1035px;
+   right: 10px;
+  }
+
+  .sideText2 {
+    max-width: 400px;
+    float: right;
+    position:relative;
+    top:-20px;
+    right: 210px;
+   }
+
+  .sideText3 {
+    max-width: 400px;
+    float: right;
+    position:relative;
+    top:-20px;
+    right: 430px;
+  }
+
+  .sideText4 {
+      max-width: 400px;
+      float: right;
+      position:relative;
+      top:-20px;
+      right: 360px;
+  }
+
+   .small {
+     line-height: normal;
+   }
+
+   video {
+    margin-left: 200px;
+   }
+
+   .sidebar {
+    height: 100%;
+    width: 170px;
+    position: fixed;
+    top: 30px;
+    left: 0;
+    padding-top: 80px;
+    background-color: #66C4FF;
+    }
+    
+    .sidebar div {
+    padding: 10px;
+    font-size: 19px;
+    display: block;
+    color: #262629;
+    }
+
+    .sidebar a {
+      color: #262629;
+    }
+    
+    .sidebar a:hover {
+      color: white;
+    }
+
+
+ 
